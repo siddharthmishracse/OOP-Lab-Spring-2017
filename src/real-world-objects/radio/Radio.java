@@ -50,8 +50,8 @@ class Radio {
 
         void showBehavior()
         {
-            System.out.println("Seeked_Station:" + stationSeek + " Scaned_Station" +
-                    stationScan + " Tuned_Sation" + stationTune );
+            System.out.println("Seeked_Station:" + stationSeek + " Scaned_Station:" +
+                    stationScan + " Tuned_Sation:" + stationTune );
         }
 }
 
