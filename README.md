@@ -6,4 +6,4 @@ A repository for the JAVA lab assignments of Spring-2017.
 
 **1.** `hello-world` Say hello to java.
 
-**2.** `real-world-objects` ~~not~~ real world objects.
+**2.** `real-world-objects` ~~Not~~ real world objects.
